@@ -10,7 +10,7 @@ import "react-vertical-timeline-component/style.min.css";
 import { styles } from "../styile";
 import { experiences } from "../constants";
 import { SectionWrapper } from "../hoc";
-import { textVariant } from "../utils//montion";
+import { textVariant } from "../utils/montion";
 
 const ExperienceCard = ({ experience }) => {
   return (
