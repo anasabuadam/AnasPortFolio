@@ -1,8 +1,7 @@
-import React from 'react';
 
 import {BrowserRouter} from 'react-router-dom';
 
-import {About, Contact,Experience,Feedbacks,Hero,Navbar,Tech,Work,StarsCanvas, Works}
+import {About, Contact,Experience,Feedbacks,Hero,Navbar,Tech,StarsCanvas, Works}
 from './components';
 
 
